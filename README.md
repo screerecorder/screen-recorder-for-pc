@@ -18,7 +18,7 @@
 
 <br>
 
-**A screen recorder for PC that captures your full Windows desktop, any window, or a custom region — with system audio and microphone — and saves it as MP4. No watermark. No time limit.**
+**Aura is a free screen recorder for PC that captures your full Windows desktop, any window, or a custom region — with system audio and microphone — and saves it as MP4. No watermark. No time limit.**
 
 <br>
 
@@ -96,10 +96,10 @@ YouTube 4K · Web 1080p · Discord 25 MB — one click to the right format
 ## Table of Contents
 
 - [What Is a Screen Recorder for PC?](#what-is-a-screen-recorder-for-pc)
-- [Use Cases](#what-people-use-a-screen-recorder-for-pc-to-do)
+- [Use Cases](#what-people-use-it-for)
 - [How to Record in 3 Steps](#how-to-record-your-screen-on-a-pc--3-steps)
-- [Comparison Table](#comparison-built-in-vs-third-party-screen-recorders-for-pc)
-- [Best Settings for HD Recording](#best-settings-for-hd-screen-recording-on-pc)
+- [Comparison Table](#comparison-built-in-vs-third-party-options)
+- [Best Settings for HD Recording](#best-settings-for-hd-recording)
 - [Tips for Smoother Recordings](#tips-for-smoother-recordings)
 - [Privacy & Compatibility](#privacy-licensing-and-compatibility)
 - [FAQ](#frequently-asked-questions)
@@ -110,31 +110,35 @@ YouTube 4K · Web 1080p · Discord 25 MB — one click to the right format
 
 ## What Is a Screen Recorder for PC?
 
-A **screen recorder for PC** is an application that records the video output of a Windows computer — along with system audio and microphone — and writes it to a file. It captures the full desktop, a single window, or a chosen region at up to 60 frames per second.
+A **screen recorder for PC** is an application that records the video output of a Windows computer — along with system audio and microphone — and saves it as a video file. It can capture the full desktop, a single window, or a user-defined region at up to 60 frames per second, producing a clip you can edit, share, or upload immediately.
 
-Windows ships with two basic tools: **Xbox Game Bar** and, on Windows 11, the **Snipping Tool**. Both are limited. Xbox Game Bar records only one app window and cannot capture File Explorer or the desktop itself.
+Windows ships with two built-in options: **Xbox Game Bar** (Win + G) and, on Windows 11, the **Snipping Tool**. Both are convenient for quick clips, but both have real limits. Xbox Game Bar can only record one app window at a time and refuses to capture File Explorer, the desktop itself, or most system utilities.
 
-A dedicated screen recorder for PC removes those limits and adds:
+A dedicated screen recording app removes those constraints and adds capabilities that matter for professional use:
 
-- Annotation tools and webcam overlays
-- Scheduled recording and auto-stop
-- Built-in trimming and export presets
-- Hardware encoding via NVIDIA NVENC, AMD AMF, or Intel Quick Sync — keeping CPU overhead near zero even at 1080p 60FPS
+- **Full desktop capture** — record everything on screen, not just the active application
+- **Custom region selection** — drag a frame around exactly the area you want, with a live pixel-size readout before you start
+- **Hardware encoding** — NVIDIA NVENC, AMD AMF, and Intel Quick Sync offload the encode to a dedicated GPU chip, keeping CPU overhead below 5% even at 1080p 60FPS
+- **Separate audio tracks** — system audio and microphone recorded independently so you can adjust levels in post without re-recording
+- **Webcam overlay** — picture-in-picture camera feed without a second app
+- **Built-in library and trimming** — review, star, and cut recordings inside the same app that captured them
 
-Output is **H.264 video + AAC audio in MP4** — compatible with every device and platform including YouTube, Discord, and Microsoft Teams.
+The output is typically **H.264 video with AAC audio in an MP4 container** — universally compatible with every device, video editor, and platform including YouTube, Discord, Slack, and Microsoft Teams, with no conversion step needed.
 
 ---
 
-## What People Use a Screen Recorder for PC to Do
+## What People Use It For
 
 | Use Case | What to Look For |
 |---|---|
 | **Tutorials & training** | Microphone track, mouse highlight, region capture |
 | **Gameplay capture** | 60 FPS, hardware encoding, minimal performance impact |
 | **Software demos** | Window capture, quick export, no watermark |
-| **Bug reports** | Short-clip recording, easy sharing |
-| **Meetings & webinars** | Audio mixing, long-session support |
-| **Video essays & streaming prep** | Multi-source capture, lossless output option |
+| **Bug reports** | Short-clip recording, easy one-click sharing |
+| **Meetings & webinars** | Audio mixing, long-session support, privacy controls |
+| **Video essays & streaming prep** | Multi-source capture, lossless output, scene flexibility |
+
+The reason you need screen recording software shapes which features to prioritise. A teacher building a tutorial library needs a mouse highlighter and reliable microphone handling. A game streamer needs 60FPS hardware encoding that does not drop frames mid-match. A developer filing a bug report needs a fast ten-second clip and a direct share link. Aura covers all three without mode-switching.
 
 ---
 
@@ -157,18 +161,18 @@ Choose **Full Screen**, **Window**, or **Region**.<br>Set resolution and FPS.
 <td width="33%" align="center">
 
 **Step 3**<br><br>
-Press **REC**. Stop when done.<br>Trim and export.
+Press **REC**. Stop when done.<br>Trim and export as MP4.
 
 </td>
 </tr>
 </table>
 
-> **Pro tip:** Record a 10-second test clip first. Play it back to confirm video, system audio, and microphone are all present before a long session.
+> **Before a long session:** record a 10-second test clip first. Play it back to confirm that video, system audio, and microphone are all present before you commit to the real take.
 
 ### Built-in Windows alternatives
 
 <details>
-<summary><b>Xbox Game Bar (Win + G)</b> — fastest option, one app at a time</summary>
+<summary><b>Xbox Game Bar (Win + G)</b> — fastest, one app at a time</summary>
 
 1. Open the app you want to record and press **Win + G**
 2. Press **Win + Alt + R** to start recording
@@ -189,7 +193,7 @@ Press **REC**. Stop when done.<br>Trim and export.
 
 ---
 
-## Comparison: Built-In vs Third-Party Screen Recorders for PC
+## Comparison: Built-In vs Third-Party Options
 
 | Tool | Cost | Captures | Best For | Main Limitation |
 |---|---|---|---|---|
@@ -199,7 +203,7 @@ Press **REC**. Stop when done.<br>Trim and export.
 | **ShareX** | Free, open source | Screen, region, window | Screenshots plus quick GIF and video | Dense interface; needs FFmpeg |
 | **Aura** ⭐ | Free | Full screen, window, region | One-click tutorials and demos | Newer project, smaller community |
 
-**Summary:** Xbox Game Bar for a quick single-app clip. OBS Studio for streaming. Aura for the simplest full-desktop screen recorder for PC with no setup.
+**Bottom line:** Xbox Game Bar for a quick single-app clip. OBS Studio for full streaming setups. Aura if you want the simplest screen recorder for PC that handles full desktop, windows, and regions with no configuration required.
 
 ---
 
@@ -210,7 +214,7 @@ Press **REC**. Stop when done.<br>Trim and export.
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-region.webp" alt="Aura screen recorder for PC — region capture with 4K 60FPS selector" width="100%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-region.webp" alt="Aura screen recorder for PC — region capture with 4K 60FPS selector on Windows 11" width="100%">
 <br><sub>Region capture — drag a frame, see the true output size, pick up to 4K at 60 FPS</sub>
 </td>
 <td align="center" width="50%">
@@ -220,11 +224,11 @@ Press **REC**. Stop when done.<br>Trim and export.
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-library.webp" alt="Aura screen recorder PC library — resolution, FPS and file size at a glance" width="100%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-library.webp" alt="Aura screen recorder PC library — resolution, FPS and file size per recording" width="100%">
 <br><sub>Library — search, star and preview recordings with resolution, FPS and file size</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-export.webp" alt="Aura export screen — trim and export presets for YouTube 4K, Web 1080p, Discord" width="100%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-export.webp" alt="Aura screen recorder for PC export screen — trim and presets for YouTube, Discord" width="100%">
 <br><sub>Export — trim, pick a preset (YouTube 4K · Web 1080p · Discord 25 MB), done</sub>
 </td>
 </tr>
@@ -234,7 +238,7 @@ Press **REC**. Stop when done.<br>Trim and export.
 
 ---
 
-## Best Settings for HD Screen Recording on PC
+## Best Settings for HD Recording
 
 | Use Case | Resolution | FPS | Video Bitrate | ~File Size |
 |---|---|---|---|---|
@@ -245,34 +249,36 @@ Press **REC**. Stop when done.<br>Trim and export.
 
 Bitrates follow [YouTube's recommended upload settings](https://support.google.com/youtube/answer/1722171).
 
-**Quick estimate:** `Bitrate (Mbps) ÷ 8 × 60 = MB per minute`  
-At 12 Mbps → 90 MB/min → **5.4 GB/hr**
+**Quick storage estimate:** divide bitrate by 8 to get MB/s, then multiply by 60.
+At 12 Mbps → 1.5 MB/s × 60 = **90 MB/min** (≈ 5.4 GB/hr).
 
-> Use **MP4 + H.264** for the widest compatibility. Record audio as AAC at 48 kHz.
+> Use **MP4 + H.264** for the widest compatibility. Record audio as AAC at 48 kHz. Enable hardware encoding in your recorder settings to keep CPU load low at any resolution.
 
-See the full [Best Settings Guide →](docs/best-settings.md)
+See the complete [Best Settings Guide →](docs/best-settings.md)
 
 ---
 
 ## Tips for Smoother Recordings
 
-- **Close background apps** — tabs and cloud sync compete for CPU and disk
-- **Record to an SSD** — avoids dropped frames at high bitrates
-- **Enable hardware encoding** — NVENC, AMF, or Quick Sync keeps CPU usage below 5%
-- **Silence notifications** — enable Focus Assist so messages never appear on screen
-- **Match your display resolution** — or scale down deliberately to keep text sharp
-- **Do a sound check** — record 10 seconds, play back, adjust mic level before the real take
-- **Trim, don't re-record** — cutting dead time is faster than another take
+These habits apply to any screen recording software on Windows and make a measurable difference in output quality:
+
+- **Close background apps** — browsers with many tabs, cloud sync tools, and antivirus scans compete for CPU, disk write speed, and memory bandwidth
+- **Record to an SSD** — a slow mechanical drive is the most common cause of dropped frames at bitrates above 8 Mbps
+- **Enable hardware encoding** — NVENC, AMF, or Quick Sync keeps CPU usage below 5% during recording; software encoding (x264) can consume 20–50% of CPU on the same machine
+- **Silence notifications** — turn on Windows Focus Assist or Do Not Disturb before starting so private messages, calendar alerts, and system popups never appear on screen
+- **Match your display resolution** — record at your monitor's native resolution or one step below; upscaling from 1080p to 4K adds file size without adding quality
+- **Do a sound check** — record 10 seconds, play it back, and adjust the microphone input level before the real session; catching a clipped or silent mic here saves a complete re-record later
+- **Trim, don't re-record** — cutting the dead 10–30 seconds at the start and end of a recording is faster than another full take and produces a cleaner final file
 
 ---
 
 ## Privacy, Licensing, and Compatibility
 
-**Privacy:** Before sharing any clip, replay it and check for open email, chat windows, autofill passwords, or file paths that reveal personal information. Use window or region capture to keep unrelated content out of frame.
+**Privacy:** A desktop recording captures everything visible on your screen, which can include email subject lines, chat previews, file paths, browser history, and autofill values in password fields. Before sharing any clip made with screen recording software, replay it once in full and check for content you did not intend to include. Using window or region capture rather than full-screen mode is the safest way to keep unrelated content out of frame from the start.
 
-**Compatibility:** Works on Windows 10 and Windows 11. Outdated GPU drivers are the most common cause of black frames or failed hardware encoding — update your GPU driver first if a recording comes out blank.
+**Compatibility:** Aura runs on Windows 10 and Windows 11. Outdated GPU drivers are the most common cause of black frames or failed hardware encoding — update your graphics driver first if a recording comes out blank or the hardware encoder option is greyed out.
 
-**Copyright & consent:** Recording your own work, gameplay, or a meeting you host is generally fine. Capturing streamed films, paid courses, or private calls may breach terms of service or local law.
+**Copyright & consent:** Recording your own work, your own gameplay, or a meeting you host is generally fine. Capturing streamed films, paid courses, or private calls without permission may breach a platform's terms of service or local recording consent laws, which vary by jurisdiction. Confirm you have the right to record before you publish or distribute the result.
 
 ---
 
@@ -281,66 +287,66 @@ See the full [Best Settings Guide →](docs/best-settings.md)
 <details>
 <summary><b>What is the best screen recorder for PC?</b></summary>
 
-It depends on your use case. Xbox Game Bar is fastest for a single app. OBS Studio is the most powerful free option for streaming. Aura is the simplest one-click recorder for tutorials, demos, and meetings — free with no watermark.
+It depends on your use case. Xbox Game Bar is fastest for a single app. OBS Studio is the most powerful free option for streaming and multi-source scenes. Aura is the simplest one-click screen recording app for tutorials, demos, and meetings — free with no watermark and no time limit.
 </details>
 
 <details>
 <summary><b>Is there a free screen recorder for PC without a watermark?</b></summary>
 
-Yes. Aura is completely free with no watermark and no recording time limit. Xbox Game Bar and Snipping Tool are also free and watermark-free but have limited capture modes. See the [No Watermark Guide](docs/free-screen-recorder-no-watermark.md) for a full comparison.
+Yes. Aura is completely free with no watermark and no recording time limit. Xbox Game Bar and Snipping Tool are also free and watermark-free but have limited capture modes. See the [No Watermark Guide](docs/free-screen-recorder-no-watermark.md) for a full side-by-side comparison.
 </details>
 
 <details>
 <summary><b>How do I record my screen on Windows 10 or 11?</b></summary>
 
-Press **Win + G** to open Xbox Game Bar, then **Win + Alt + R** to start. Or [download Aura](https://screenrecorderforpc.com/download) for full-screen and region recording. Full walkthrough: [How to Record Screen on Windows 10](docs/how-to-record-screen-windows-10.md).
+Press **Win + G** to open Xbox Game Bar, then **Win + Alt + R** to start. For full-desktop recording, [download Aura](https://screenrecorderforpc.com/download) — it records any window, region, or the complete desktop on both Windows 10 and 11. Full walkthrough: [How to Record Screen on Windows 10](docs/how-to-record-screen-windows-10.md).
 </details>
 
 <details>
 <summary><b>How do I record my screen with audio on PC?</b></summary>
 
-In Aura, system audio and microphone are both enabled by default and recorded as separate tracks. Toggle each from the floating dock while recording.
+In Aura, system audio and microphone are both enabled by default and recorded as separate tracks. Toggle either independently from the floating dock during recording without stopping the capture.
 </details>
 
 <details>
 <summary><b>Does Windows 11 have a built-in screen recorder?</b></summary>
 
-Yes — the Snipping Tool in Windows 11 includes a video recording tab for region capture. It lacks audio mixing and advanced encoding options. For more control, use a dedicated screen recorder for PC like Aura.
+Yes — the Snipping Tool in Windows 11 includes a video recording tab for region capture. It lacks advanced audio mixing and encoding options. For full-desktop recording with audio control, use a dedicated screen recorder for Windows like Aura.
 </details>
 
 <details>
 <summary><b>How do I record my screen on a PC without lag?</b></summary>
 
-Enable hardware encoding (NVENC, AMF, or Quick Sync), close background apps, record to an SSD, and lower the bitrate if the drive is slow. See [Best Settings](docs/best-settings.md) for specific numbers.
+Enable GPU hardware encoding (NVENC, AMF, or Quick Sync), close background applications, record to an SSD, and lower the output bitrate if the drive is slow. See [Best Settings](docs/best-settings.md) for specific values by use case.
 </details>
 
 <details>
 <summary><b>Can I record only part of my screen?</b></summary>
 
-Yes. Aura supports custom-region capture — drag a frame around any area before recording. OBS Studio and ShareX also support region capture.
+Yes. Aura's region capture lets you drag a frame around any area before recording — the app shows the exact pixel dimensions of your selection. OBS Studio and ShareX also support region and window capture.
 </details>
 
 <details>
 <summary><b>How long can you record your screen on PC?</b></summary>
 
-Aura has no time limit. Xbox Game Bar caps at 4 hours. Available disk space is the practical limit — at 1080p 60FPS (12 Mbps), expect roughly 90 MB per minute.
+Aura has no time limit. Xbox Game Bar caps recordings at 4 hours. Available disk space is the practical constraint — at 1080p 60FPS and 12 Mbps, expect roughly 90 MB per minute or 5.4 GB per hour.
 </details>
 
 ---
 
 ## How We Tested
 
-Every value on this page comes from recordings made by the Aura Team on Windows 10 and Windows 11. We recorded short clips at each resolution and frame rate, compared bitrate, file size, and dropped frames, and kept only settings that stay smooth. Storage figures use standard bitrate arithmetic. We update this guide when Windows or a tool changes. Found an error? [Open an issue](https://github.com/screerecorder/screen-recorder-for-pc/issues).
+Every value on this page comes from recordings made by the Aura Team on Windows 10 and Windows 11 test machines. We recorded short clips at each resolution and frame rate, measured bitrate, file size, and dropped-frame count, and kept only the settings that produced smooth output across both operating systems. Storage estimates use standard bitrate arithmetic you can verify yourself. We update this guide whenever Windows or a tool changes in a way that affects the numbers — the commit date above reflects the last revision. Found an error or a missing tool? [Open an issue](https://github.com/screerecorder/screen-recorder-for-pc/issues) and we will correct it.
 
 ---
 
 ## Extended Guides
 
-| Guide | Target |
+| Guide | What It Covers |
 |---|---|
-| [Best Screen Recording Settings for PC](docs/best-settings.md) | Bitrate, resolution, FPS, encoder, audio |
-| [How to Record Screen on Windows 10](docs/how-to-record-screen-windows-10.md) | Step-by-step for all methods including built-ins |
-| [Free Screen Recorder Without Watermark](docs/free-screen-recorder-no-watermark.md) | Honest comparison of every free, watermark-free option |
+| [Best Screen Recording Settings for PC](docs/best-settings.md) | Bitrate, resolution, FPS, hardware vs software encoding, audio settings, storage estimates |
+| [How to Record Screen on Windows 10](docs/how-to-record-screen-windows-10.md) | Step-by-step walkthrough for Xbox Game Bar, Snipping Tool, Aura, and OBS Studio |
+| [Free Screen Recorder Without Watermark](docs/free-screen-recorder-no-watermark.md) | Every genuinely free, watermark-free option with honest notes on limitations |
 
 ---
 
