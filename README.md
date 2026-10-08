@@ -108,6 +108,37 @@ YouTube 4K · Web 1080p · Discord 25 MB — one click to the right format
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-region.webp" alt="Aura screen recorder for PC — region capture with 4K 60FPS selector on Windows 11" width="100%">
+<br><sub>Region capture — drag a frame, see the true output size, pick up to 4K at 60 FPS</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-dock.webp" alt="Aura floating dock for screen recording on PC — REC button, timer, audio meters" width="100%">
+<br><sub>Floating dock — one-click REC, live timer, stereo meters, mic and camera toggles</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-library.webp" alt="Aura screen recorder PC library — resolution, FPS and file size per recording" width="100%">
+<br><sub>Library — search, star and preview recordings with resolution, FPS and file size</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-export.webp" alt="Aura screen recorder for PC export screen — trim and presets for YouTube, Discord" width="100%">
+<br><sub>Export — trim, pick a preset (YouTube 4K · Web 1080p · Discord 25 MB), done</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## What Is a Screen Recorder for PC?
 
 A **screen recorder for PC** is an application that records the video output of a Windows computer — along with system audio and microphone — and saves it as a video file. It can capture the full desktop, a single window, or a user-defined region at up to 60 frames per second, producing a clip you can edit, share, or upload immediately.
@@ -204,37 +235,6 @@ Press **REC**. Stop when done.<br>Trim and export as MP4.
 | **Aura** ⭐ | Free | Full screen, window, region | One-click tutorials and demos | Newer project, smaller community |
 
 **Bottom line:** Xbox Game Bar for a quick single-app clip. OBS Studio for full streaming setups. Aura if you want the simplest screen recorder for PC that handles full desktop, windows, and regions with no configuration required.
-
----
-
-## Screenshots
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-region.webp" alt="Aura screen recorder for PC — region capture with 4K 60FPS selector on Windows 11" width="100%">
-<br><sub>Region capture — drag a frame, see the true output size, pick up to 4K at 60 FPS</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-dock.webp" alt="Aura floating dock for screen recording on PC — REC button, timer, audio meters" width="100%">
-<br><sub>Floating dock — one-click REC, live timer, stereo meters, mic and camera toggles</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-library.webp" alt="Aura screen recorder PC library — resolution, FPS and file size per recording" width="100%">
-<br><sub>Library — search, star and preview recordings with resolution, FPS and file size</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://screenrecorderforpc.com/images/screen-recorder-for-pc-export.webp" alt="Aura screen recorder for PC export screen — trim and presets for YouTube, Discord" width="100%">
-<br><sub>Export — trim, pick a preset (YouTube 4K · Web 1080p · Discord 25 MB), done</sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
